@@ -13,3 +13,8 @@ __Skills:__
 
 **Code example:** coming soon
 
+**Education:** 
+* Sololearm HTML, CSS courses
+* Stepik Web development for beginners
+
+My English level is A2
