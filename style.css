@@ -2,6 +2,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	font-family: Arial, sans-serif;
 }
 .fixed-container {
 	margin: 0 auto;
@@ -12,8 +13,25 @@
 	padding: 30px 0;
 	text-align: center;
 	text-transform: uppercase;
+	letter-spacing: 0.8px;
 	font-size: 24px;
 	font-weight: 700;
 	color: #ffffff;
 }
+.section2 .fixed-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.section2 img {margin: 20px 0;}
+.section2 li {
+	margin: 0 0 5px 0;
+	list-style: none;
+	font-style: italic;
+}
+.section2 p {
+	margin: 15px 0;
+	text-align: center;
+	font-size: 16px;
+	font-style: italic;
 }
